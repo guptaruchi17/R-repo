@@ -1,2 +1,2 @@
-# R-repo
-This repo contains various R projecs
+t# R-repo
+This repo contains various R projects
